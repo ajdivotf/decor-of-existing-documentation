@@ -8,7 +8,9 @@ all links in this implementation also lead to the boost graph site.
 the results are:
 
 this page view is designed to be viewed on a mobile device
+
 ![](https://github.com/ajdivotf/decor-of-existing-documentation/blob/main/results/lil_page.png)
 
 this kind of page is designed to be viewed on a computer
+
 ![](https://github.com/ajdivotf/decor-of-existing-documentation/blob/main/results/big_page.png)
